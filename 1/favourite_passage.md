@@ -1,3 +1,3 @@
-“They says that we leads safe, troubled live at home while they dooes battle with the spear. 
-They'm wrong. 
-I would rather stand three times in the line of battle than once bears a children."
+“Men say that we lead a life free from danger at home while they fight with the spear. 
+How wrong they are! 
+I would rather stand three times with a shield in battle than give birth once."
