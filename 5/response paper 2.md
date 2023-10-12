@@ -16,13 +16,13 @@ They have more than ten associated academic institutions, some of them are with 
 
 
 # critique of two websites 2: Papyri.info
-## permanence and sustainability: A
-Most resources seem to be updated in the 2010s, so I guess it’s still quite updated. 
+## permanence and sustainability: B
+Most resources seem to be updated in the 2010s, so I guess it’s still quite updated?
 
 ## openness or restriction of their data: A
 It seems that most data is open to the public, without need of registration or association with certain academic intuition. And registering an account on this website allows and even invites other people to make new changes and projects. 
 
-## functionality of their interface and interaction with their data: A-
+## functionality of their interface and interaction with their data: B
 Somehow at the bottom right of the home page, the “BP” section turns out to be “404 not found,” which I attached the link below, but all others are quickly accessible. 
 https://cpeg.ulb.be//bp.htm 
 
