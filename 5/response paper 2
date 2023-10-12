@@ -1,16 +1,15 @@
-#response paper 2
+# response paper 2
 This video explains data normalization as the process or rules to regulate data for the purpose of management. In order to do so, all the rows to regulate data must be unique and all cells must be atomic. Within this regulation, the first normal form requires its cells to contain only one single value, and the value should be the smallest unit to break down. For the second normal form, based on the regulation criteria of the first normal form, it further requires its rows/columns to be directly related to each other. For the third normal form, based on both first and second form, it not only requires all rows/columns to be interrelated, but to all have direct correlations with all others. In other words, one column can not be only another column’s affiliated attribute (therefore transitively related to other columns) but shares direct equivalent relationships with all other columns.
 
-#critique of two websites
-1. Perseus Digital Library
-permanence and sustainability: A
+# critique of two websites 1: Perseus Digital Library
+## permanence and sustainability: A
 This digital library was initiated in the 1980s, and it’s still functioning well. And the newest update was in August, 2023. 
 
-openness or restriction of their data: A
+## openness or restriction of their data: A
 Since it has an entire web page to demonstrate how open access they are. 
 
-functionality of their interface and interaction with their data: A
+## functionality of their interface and interaction with their data: A
 Most intersected digital resources are highlighted in blue on the web page, even though most of them are Tufts dominated. 
 
-connectivity across resources (under the principles of Linked Open Data): A
+## connectivity across resources (under the principles of Linked Open Data): A
 They have more than ten associated academic institutions, some of them are with Harvard. 
