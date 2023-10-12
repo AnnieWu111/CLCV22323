@@ -11,7 +11,7 @@ Since it has an entire web page to demonstrate how open access they are.
 ## functionality of their interface and interaction with their data: A
 Most intersected digital resources are highlighted in blue on the web page, even though most of them are Tufts dominated. 
 
-## connectivity across resources (under the principles of Linked Open Data): A
+## connectivity across resources: A
 They have more than ten associated academic institutions, some of them are with Harvard. 
 
 
@@ -26,5 +26,5 @@ It seems that most data is open to the public, without need of registration or a
 Somehow at the bottom right of the home page, the “BP” section turns out to be “404 not found,” which I attached the link below, but all others are quickly accessible. 
 https://cpeg.ulb.be//bp.htm 
 
-## connectivity across resources (under the principles of Linked Open Data): A
+## connectivity across resources: A
 This website does absolutely well on connecting across different universities, institutions, and all other academic organizations and websites, and even across different regions and fields. 
