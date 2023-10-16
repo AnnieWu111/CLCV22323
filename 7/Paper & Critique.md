@@ -18,5 +18,5 @@ Definitely catching up with the contemporary sense of the ancient world, coopera
 Most data is open to the public, even though there are a few ads pop up. 
 ## functionality of their interface and interaction with their data: A
 I absolutely like how they manage their data and maps, categorizing maps based on myths, political regimes, and different greco-roman literature and cultures is definitely a successful attempt. 
-## connectivity across resources (under the principles of Linked Open Data)
+## connectivity across resources (under the principles of Linked Open Data): B
 This website source mostly comes from his wife and students, therefore less academic with less connection in social networks within the academia (probably no fundings as well). Most sources do not have credits/citations but based on common knowledge, less connective compared with other websites. 
