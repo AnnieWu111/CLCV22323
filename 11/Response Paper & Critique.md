@@ -18,5 +18,5 @@ I couldn’t find the place to see when it’s last updated, or the launch date
 It seems that all inscriptions listed are open to public for academic purposes 
 ## functionality of their interface and interaction with their data: A-
 Inscriptions are categorized through region, which makes sense, but not interacting with other inscriptions in different time periods/regions/types
-## connectivity across resources (under the principles of Linked Open Data):
+## connectivity across resources (under the principles of Linked Open Data): B
 It’s definitely interacting with all different academic institutions and journals throughout the world
