@@ -1,0 +1,80 @@
+body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: "Times New Roman", serif
+    }
+
+    .w3-row-padding img {
+      margin-bottom: 12px
+    }
+
+    /* Set the width of the sidebar to 120px */
+    .w3-sidebar {
+      width: 120px;
+      background: #222;
+    }
+
+    /* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+    #main {
+      margin-left: 120px
+    }
+
+    /* Remove margins from "page content" on small screens */
+    @media only screen and (max-width: 600px) {
+      #main {
+        margin-left: 0
+      }
+    }
+
+    .w3modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100vh;
+      background-color: rgba(0, 0, 0, 1);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+    }
+
+    .w3modal img {
+      height: 50%;
+    }
+
+    .w3modal p {
+      color: white;
+    }
+
+    .w3column {
+      float: left;
+      width: 100%;
+      height: auto;
+      padding: 7px;
+    }
+
+    .image-row {
+      justify-content: space-between;
+      columns: 3;
+      column-gap: 2px; 
+    }
+
+    .gfg {
+      margin: 3%;
+      position: relative;
+    }
+
+    .text-container {
+      position: sticky;
+      color: rgb(255, 255, 255);
+      left: 18rem;
+      top: 2rem;
+      background-color: rgb(41, 41, 41, 0.8);
+      padding: 0 1rem;
+    }
